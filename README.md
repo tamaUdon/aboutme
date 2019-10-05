@@ -26,12 +26,12 @@ OpenCV, Keras, TensorFlow, Numpy
 ### *LT資料
 **プログラミング初心者がOpenCVと機械学習でOCRエンジン自作に挑戦する話**   
 スライド https://www.slideshare.net/marika_hotani/opencvocr  
-反応…今後もこのシステムの改修を続けてほしい など 
+反応…今後もこのシステムの改修を続けてほしい など  
 2019/7/29 @KANSAI AI PUB (https://deep-learning-osaka.connpass.com/event/136898/)  
   
 **初学者向け　10分でつかむ！CNNの特徴**   
 スライド https://www.slideshare.net/marika_hotani/10cnn  
-反応…わかりやすい  など 
+反応…わかりやすい  など  
 2019/9/30 @KANSAI AI PUB (https://deep-learning-osaka.connpass.com/event/147621/)  
 
 ### *現在の業務

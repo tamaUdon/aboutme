@@ -8,7 +8,7 @@ Python, Java
 OpenCV, Keras, TensorFlow, Numpy  
   
 ### *作品  
-**自作OCRエンジン**
+**自作OCRエンジン**  
 ・デモサイト - https://ocrapp-mrc.herokuapp.com/  
 ・github - https://github.com/tamaUdon/ocr_app  
 ・仕様・設計 -　https://tamaudon.github.io/ocr_app_introduction/constructure.html  

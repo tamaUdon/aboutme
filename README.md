@@ -1,14 +1,24 @@
 ## *about me  
-大阪でエンジニアとして働く26歳、奈良出身。  
-2018/11~ プログラミングを学び始める。  
-【興味】 OCR、画像処理/認識、機械学習  
+iOS/Androidエンジニアとして働く27歳。  
+
+【興味】 視覚情報処理(コンピュータビジョン, 画像処理, 画像認識, AR, VR, 3DCGなど)  
     
 ### *スキル  
 Python, Java  
+Swift, Kotlin  
 OpenCV, Keras, TensorFlow, Numpy  
+SwiftUI, 
   
-### *作品  
-**自作OCRエンジン**  
+### *作品・ポートフォリオ  
+
+**指先から炎のエフェクトを出す**  
+・ - https://tama-ud.hatenablog.com/entry/2020/10/28/223838  
+
+**カメラからのジェスチャで入力できるソフトウェアキーボード (2020/08)**  
+・
+ - https://tama-ud.hatenablog.com/entry/2020/08/18/222331  
+  
+**自作OCRエンジン (2019/04)**  
 ・デモサイト - https://ocrapp-mrc.herokuapp.com/  
 ・github - https://github.com/tamaUdon/ocr_app  
 ・仕様・設計 -　https://tamaudon.github.io/ocr_app_introduction/constructure.html  
@@ -18,53 +28,28 @@ OpenCV, Keras, TensorFlow, Numpy
       -OpenCV 4.0.0  
       -Keras 2.2.4  
       -TensorFlow 1.12.0  
-      -Numpy 1.16.1  
+      -Numpy 1.16.1    
   
-#### なぜ作ったか？  
-コンピュータビジョンに興味がある。  
-人間が物体を認識するプロセスを、システムでどのように構築するかを知りたかったので、  
-実際のOCRエンジン開発を通じて学ぶことにした。  
+### *現在の業務内容
+iOS/Androidアプリケーション開発  
+ロボットのソフトウェア開発 （C++, Java, Python）
   
-  
-### *現在の業務
-Firebase MLkit を使用したiOS/Androidアプリケーション開発  
-ロボットのソフトウェアののリファレンス、チュートリアル作成  
-  
-### *普段の勉強方法  
-
-・普段の勉強方法…基本的には書籍での独学、  
-インターネット検索、CiNiiやarXivで論文を読む、  
-勉強会への参加・登壇、など  
-  
-プログラミング関連の参考書  
--実践力を身につける Pythonの教科書, クジラ飛行机, 2016  
--入門 Python3, オライリー・ジャパン, 2015  
-  
-機械学習関連の参考書  
--Pythonによるスクレイピング＆機械学習 開発テクニック, クジラ飛行机, 2016    
--ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装, 斎藤 康毅, オライリージャパン，2016.  
--[第2版]Python 機械学習プログラミング 達人データサイエンティストによる理論と実践, Sebastian Raschka, インプレス, 2018  
-  
-### *LT資料
+### *LT
 **プログラミング初心者がOpenCVと機械学習でOCRエンジン自作に挑戦する話**   
 スライド https://www.slideshare.net/marika_hotani/opencvocr  
-反応…「今後もこのシステムの改修を続けてほしい」 など  
 2019/7/29 @KANSAI AI PUB (https://deep-learning-osaka.connpass.com/event/136898/)  
   
 **初学者向け　10分でつかむ！CNNの特徴**   
-スライド https://www.slideshare.net/marika_hotani/10cnn  
-反応…「非エンジニアでも理解できるような言葉で説明してもらえた。お話を聞けて良かった」 など  
+スライド https://www.slideshare.net/marika_hotani/10cnn   
 2019/9/30 @KANSAI AI PUB (https://deep-learning-osaka.connpass.com/event/147621/)  
   
   
-### *今後どういう仕事をしていきたいか
-**・目的**   
--人間とシステムの境界に興味がある。もっと人間を知りたい（好きになりたい）  
--将来の技術/技術者に貢献したい（特に画像認識の分野で）  
-  
+### *ひとこと
+**・maricaってどんな人？**   
+ - とくに視覚情報処理の分野で、ソフトウェアが人間と同じように物体や文字を認識することにロマンを感じる  
+ - 面白いモノを作って、皆に面白いと思ってもらえることが一番のモチベーション  
+ - 技術を面白いこと・ワクワクすることに使いたい  
+    
  **・今後**  
- -画像認識技術を用いたシステム開発に携わりたい。  
+ - 画像処理・画像認識技術を用いたシステム開発に携わってみたい！  
 
--医療、製造、セキュリティ、自動運転など、画像認識技術の応用分野は多岐にわたるが、  
-どれに興味があるかはまだ決めかねている状態。  
-  

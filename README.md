@@ -6,7 +6,7 @@ iOS/Androidエンジニア, 27歳
     
 ### *スキル  
 Python, Java  
-Swift, Kotlin  
+Swift, Kotlin, C#  
 OpenCV, Keras, TensorFlow, Numpy  
 SwiftUI, 
   

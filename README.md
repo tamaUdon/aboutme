@@ -1,7 +1,8 @@
 ## *about me  
-iOS/Androidエンジニアとして働く27歳。  
-**ブログ** : https://tama-ud.hatenablog.com/  
-**興味** : 視覚情報処理(コンピュータビジョン, 画像処理, 画像認識, AR, VR, 3DCGなど)  
+iOS/Androidエンジニア, 27歳  
+
+📔 **ブログ** : https://tama-ud.hatenablog.com/  
+❤️ **興味** : 視覚情報処理(コンピュータビジョン, 画像処理, 画像認識, AR, VR, 3DCGなど)  
     
 ### *スキル  
 Python, Java  
@@ -11,23 +12,20 @@ SwiftUI,
   
 ### *作品・ポートフォリオ  
 
-**指先から炎のエフェクトを出す (2020/10)**  
+**🔥指先から炎のエフェクトを出す (2020/10)**  
 https://tama-ud.hatenablog.com/entry/2020/10/28/223838  
-
-**カメラからのジェスチャで入力できるソフトウェアキーボード (2020/08)**  
-https://tama-ud.hatenablog.com/entry/2020/08/18/222331  
+(macOS Catalina, MediaPipe, OpenCV)
   
-**自作OCRエンジン (2019/04)**  
+  
+**⌨️カメラからのジェスチャで入力できるソフトウェアキーボード (2020/08)**  
+https://tama-ud.hatenablog.com/entry/2020/08/18/222331  
+(macOS Catalina, MediaPipe, OpenCV)
+  
+  
+**🔎自作OCRエンジン (2019/04)**  
 デモサイト - https://ocrapp-mrc.herokuapp.com/  
 github - https://github.com/tamaUdon/ocr_app  
-仕様・設計 -　https://tamaudon.github.io/ocr_app_introduction/constructure.html  
-開発環境  
-      -Windows10  
-      -Python 3.6  
-      -OpenCV 4.0.0  
-      -Keras 2.2.4  
-      -TensorFlow 1.12.0  
-      -Numpy 1.16.1    
+(Windows10, Python 3.6, OpenCV 4.0.0, Keras 2.2.4, TensorFlow 1.12.0, Numpy 1.16.1)    
   
 ### *現在の業務内容
 iOS/Androidアプリケーション開発  
@@ -45,10 +43,10 @@ iOS/Androidアプリケーション開発
   
 ### *ひとこと
 **maricaってどんな人？**   
- - とくに視覚情報処理の分野で、ソフトウェアが人間と同じように物体や文字を認識することにロマンを感じる  
- - 面白いモノを作って、皆に面白いと思ってもらえることが一番のモチベーション  
- - 技術を面白いこと・ワクワクすることに使いたい  
+ 💡 とくに視覚情報処理の分野で、ソフトウェアが人間と同じように物体や文字を認識することにロマンを感じる  
+ ✏️ 面白いモノを作って、皆に面白いと思ってもらえることが一番のモチベーション  
+ 🔧 技術を面白いこと・ワクワクすることに使いたい  
     
  **今後**  
- - 画像処理・画像認識技術を用いたシステム開発に携わってみたい！  
+ 画像処理・画像認識技術を用いたシステム開発に携わってみたい！  
 

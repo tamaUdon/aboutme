@@ -11,11 +11,10 @@ SwiftUI,
   
 ### *作品・ポートフォリオ  
 
-**指先から炎のエフェクトを出す**  
-・ - https://tama-ud.hatenablog.com/entry/2020/10/28/223838  
+**指先から炎のエフェクトを出す (2020/10)**  
+ - https://tama-ud.hatenablog.com/entry/2020/10/28/223838  
 
 **カメラからのジェスチャで入力できるソフトウェアキーボード (2020/08)**  
-・
  - https://tama-ud.hatenablog.com/entry/2020/08/18/222331  
   
 **自作OCRエンジン (2019/04)**  

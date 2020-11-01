@@ -1,4 +1,4 @@
-## *about me  
+## About me  
 iOS/Androidエンジニア, 27歳  
 
 📔 **ブログ** : https://tama-ud.hatenablog.com/  

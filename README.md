@@ -11,17 +11,17 @@ SwiftUI,
   
 ### *作品・ポートフォリオ  
 
-**指先から炎のエフェクトを出す (2020/10)**  
- - https://tama-ud.hatenablog.com/entry/2020/10/28/223838  
+** - 指先から炎のエフェクトを出す (2020/10)**  
+https://tama-ud.hatenablog.com/entry/2020/10/28/223838  
 
-**カメラからのジェスチャで入力できるソフトウェアキーボード (2020/08)**  
- - https://tama-ud.hatenablog.com/entry/2020/08/18/222331  
+** - カメラからのジェスチャで入力できるソフトウェアキーボード (2020/08)**  
+https://tama-ud.hatenablog.com/entry/2020/08/18/222331  
   
-**自作OCRエンジン (2019/04)**  
-・デモサイト - https://ocrapp-mrc.herokuapp.com/  
-・github - https://github.com/tamaUdon/ocr_app  
-・仕様・設計 -　https://tamaudon.github.io/ocr_app_introduction/constructure.html  
-・開発環境  
+** - 自作OCRエンジン (2019/04)**  
+デモサイト - https://ocrapp-mrc.herokuapp.com/  
+github - https://github.com/tamaUdon/ocr_app  
+仕様・設計 -　https://tamaudon.github.io/ocr_app_introduction/constructure.html  
+開発環境  
       -Windows10  
       -Python 3.6  
       -OpenCV 4.0.0  

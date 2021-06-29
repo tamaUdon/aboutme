@@ -43,7 +43,7 @@ github - https://github.com/tamaUdon/ocr_app
 スライド https://www.slideshare.net/marika_hotani/10cnn   
 2019/9/30 @KANSAI AI PUB (https://deep-learning-osaka.connpass.com/event/147621/)  
 
-**Unity + MRTK で HoloLens 2 向け音楽ゲームをつくる**　　
+**Unity + MRTK で HoloLens 2 向け音楽ゲームをつくる**  
 スライド https://speakerdeck.com/tamaudon/unity-plus-mrtk-de-hololens-2-xiang-keyin-le-gemuwotukuru  
 2021/4/28 @Roppongi.unity #9 (https://roppongiunity.connpass.com/event/208549/)  
 
